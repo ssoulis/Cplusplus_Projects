@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1557755055 source:/home/st1070263/Desktop/Askisi1_C++/main.cpp
+	<iostream>
+	<cstdlib>
+	<iostream>
+	<cstdlib>
+
+1557220081 source:/home/st1070263/Desktop/Askisi1_C++/src/Kouti.cpp
+	"Kouti.h"
+
+1557220081 /home/st1070263/Desktop/Askisi1_C++/include/Kouti.h
+
+1557411853 source:/home/st1070263/Desktop/Askisi1_C++/src/gamw ton siama/.cpp
+
+1557411783 source:/home/st1070263/Desktop/Askisi1_C++/src/gaysiamas.cpp
+	"gaysiamas.h"
+
+1557411782 /home/st1070263/Desktop/Askisi1_C++/include/gaysiamas.h
+
+1557758655 source:c:\users\Σπυρούκος\desktop\askisis c++\askisi1_c++\main.cpp
+	<iostream>
+	<cstdlib>
+	<iostream>
+	<cstdlib>
+
+1557415453 source:c:\users\Σπυρούκος\desktop\askisis c++\askisi1_c++\src\gamw ton siama\.cpp
+
+1557415383 source:c:\users\Σπυρούκος\desktop\askisis c++\askisi1_c++\src\gaysiamas.cpp
+	"gaysiamas.h"
+
+1557415382 c:\users\Σπυρούκος\desktop\askisis c++\askisi1_c++\include\gaysiamas.h
+
+1557223681 source:c:\users\Σπυρούκος\desktop\askisis c++\askisi1_c++\src\kouti.cpp
+	"Kouti.h"
+
+1557223681 c:\users\Σπυρούκος\desktop\askisis c++\askisi1_c++\include\kouti.h
+
